@@ -1,0 +1,8 @@
+Pillow>=10.0
+pillow-heif>=0.18        # HEIC y AVIF
+pypdfium2>=4.30          # PDF -> imagen / texto
+pypdf>=4.0               # comprimir y limpiar PDF
+python-docx>=1.1         # leer/crear DOCX
+reportlab>=4.0           # TXT/DOCX -> PDF
+pdf2docx>=0.5.8          # PDF -> DOCX con formato (opcional pero recomendado)
+pystray>=0.19            # icono en la bandeja

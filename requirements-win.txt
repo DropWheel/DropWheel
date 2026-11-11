@@ -1,0 +1,12 @@
+# Versiones fijas para el instalador de Windows (más livianas y probadas juntas)
+Pillow>=10.0
+pillow-heif>=0.18
+pypdfium2>=4.30
+pypdf>=4.0
+python-docx>=1.1
+reportlab>=4.0
+pystray>=0.19
+pdf2docx==0.5.8
+PyMuPDF==1.24.14
+opencv-python-headless<4.11
+numpy<2.1
